@@ -1,0 +1,128 @@
+@media screen and (max-width:820px){
+
+    .home2{
+        >img{
+            height:30vh;
+        width:40%;
+        }
+    }
+    .home3{
+        height:80vh;
+        >div{
+            height:80vh;
+        }
+    }
+    .home4{
+        height:80vh;
+        >div{
+            height:50vh;
+        }
+    }
+    .contact{
+        height:70vh;
+        >main{
+
+            height:50vh;
+            width:70%;
+           
+           >form{
+            margin:0;
+            text-align: center;
+            height:40vh;
+            width:100%;
+           }
+        }
+    }
+}
+
+@media screen and (max-width:700px){
+nav{
+    >h1{
+        display: none;
+
+    }
+    >main{
+        width:100%;
+        justify-content: center;
+        a{
+            margin:0.5rem;
+        }
+    }
+}
+
+.home{
+   
+    >img{
+        width:100%;
+        height:70vh;
+    }
+    >main{
+        height:50vh;
+        width:70%;
+        align-items: center;
+        justify-content: center;
+        >h1{
+            text-align: center;
+           font-size:50px;
+            margin:0.2rem;
+            
+        }
+        p{
+            text-align: center;
+            margin:0.2rem;
+            font-size:medium;
+            align-items: center;
+            word-spacing: 1px;
+            
+        }
+    }
+ 
+}
+    .home2{
+        height:100vh;
+        >img{
+            height:20vh;
+        width:40%;
+        }
+        >div{
+            height:50vh;
+            padding:1rem;
+
+            p{
+                color:white;
+                letter-spacing: 0.5px;
+                word-spacing:1px;
+                font:100 1rem "Itim";
+                width:100%;
+                margin-left:30px;
+            }
+        }
+    }
+    .home3{
+        height:80vh;
+        >div{
+            height:80vh;
+        }
+    }
+    .home4{
+        height:80vh;
+        >div{
+            height:50vh;
+        }
+    }
+    .contact{
+        height:70vh;
+        >main{
+
+            height:50vh;
+            width:70%;
+           
+           >form{
+            margin:0;
+            text-align: center;
+            height:40vh;
+            width:100%;
+           }
+        }
+    }
+}
